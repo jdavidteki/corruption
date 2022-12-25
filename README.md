@@ -1,0 +1,2 @@
+# corruption
+society as code
